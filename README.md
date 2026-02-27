@@ -98,4 +98,3 @@ Desejava ter construído o app em blocos que já discriminassem todos os relató
 
 ## O que aprendeu sobre conversar com IAs?
 Conversar com a IA não se faz necessário usar de formalidades, mas uma linguagem simples, natural e detalhada do que se deseja consegue-se grandes resultados.  
-## 💬 Conclusão
